@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim",
+    "email": "rahim@example.com",
+    "phone": "01700000001",
+    "website": "rahim.dev",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Karim",
+    "email": "karim@example.com",
+    "phone": "01700000002",
+    "website": "karim.dev",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Hasan",
+    "email": "hasan@example.com",
+    "phone": "01700000003",
+    "website": "hasan.dev",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Nadia",
+    "email": "nadia@example.com",
+    "phone": "01700000004",
+    "website": "nadia.dev",
+    "active": false
+  },
+  {
+    "id": 5,
+    "name": "Sadia",
+    "email": "sadia@example.com",
+    "phone": "01700000005",
+    "website": "sadia.dev",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Tanvir",
+    "email": "tanvir@example.com",
+    "phone": "01700000006",
+    "website": "tanvir.dev",
+    "active": true
+  },
+  {
+    "id": 7,
+    "name": "Imran",
+    "email": "imran@example.com",
+    "phone": "01700000007",
+    "website": "imran.dev",
+    "active": false
+  },
+  {
+    "id": 8,
+    "name": "Mitu",
+    "email": "mitu@example.com",
+    "phone": "01700000008",
+    "website": "mitu.dev",
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "Fahim",
+    "email": "fahim@example.com",
+    "phone": "01700000009",
+    "website": "fahim.dev",
+    "active": true
+  },
+  {
+    "id": 10,
+    "name": "Jannat",
+    "email": "jannat@example.com",
+    "phone": "01700000010",
+    "website": "jannat.dev",
+    "active": true
+  },
+  {
+    "id": 11,
+    "name": "Siam",
+    "email": "siam@example.com",
+    "phone": "01700000011",
+    "website": "siam.dev",
+    "active": true
+  },
+  {
+    "id": 12,
+    "name": "Rafi",
+    "email": "rafi@example.com",
+    "phone": "01700000012",
+    "website": "rafi.dev",
+    "active": false
+  }
+]
